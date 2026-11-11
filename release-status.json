@@ -1,0 +1,9 @@
+{
+  "checked_on": "2026-11-11",
+  "platform": "claude",
+  "core": "desktop-use_claude",
+  "behavior_scope": "Bounded synthetic writing checks; no native Claude model or live application certification",
+  "source_sha256": {
+    "desktop-use": "59bce42afca1d2d6f5e4902c312189a013e68ded0a2d2e7f63d044d6b8e4d2f3"
+  }
+}
